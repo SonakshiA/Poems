@@ -1,0 +1,254 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #FFFFFF;
+}
+
+.card-1,
+.card-2,
+.card-3,
+.card-4,
+.card-5,
+.card-6,
+.card-7,
+.card-8,
+.card-9,
+.card-10,
+.card-11,
+.card-12,
+.card-13,
+.card-14,
+.card-15,
+.card-16,
+.card-17,
+.card-18,
+.card-19,
+.card-20,
+.card-21,
+.card-22,
+.card-23,
+.card-24,
+.card-25,
+.card-26,
+.card-27,
+.card-28,
+.card-29,
+.card-30,
+.card-31,
+.card-32,
+.card-33,
+.card-34,
+.card-35{
+  height: 300px;
+  overflow-y: scroll;
+  box-shadow: 0 2px 3px 0;
+  width:320px;
+  border-radius: 7px;
+  margin-top: 30px;
+  padding: 7px;
+  justify-content: center;
+  margin-right: 30px;
+}
+
+.card-1:hover,
+.card-2:hover,
+.card-3:hover,
+.card-4:hover,
+.card-5:hover,
+.card-6:hover,
+.card-7:hover,
+.card-8:hover,
+.card-9:hover,
+.card-10:hover,
+.card-11:hover,
+.card-12:hover,
+.card-13:hover,
+.card-14:hover,
+.card-15:hover,
+.card-16:hover,
+.card-17:hover,
+.card-18:hover,
+.card-19:hover,
+.card-20:hover,
+.card-21:hover,
+.card-22:hover,
+.card-23:hover,
+.card-24:hover,
+.card-25:hover,
+.card-26:hover,
+.card-27:hover,
+.card-28:hover,
+.card-29:hover,
+.card-30:hover,
+.card-31:hover,
+.card-32:hover,
+.card-33:hover,
+.card-34:hover,
+.card-35:hover{
+  box-shadow: 0 4px 8px 0;
+}
+
+.container{
+  font-family: 'Optima', sans-serif;
+  padding: 2px 16px;
+  text-align: center;
+}
+
+.card-1{
+  background-color: #FFB6C1;
+}
+
+.card-2{
+  background-color: #DDA0DD;
+}
+
+.card-3{
+  background-color: #EE82EE;
+}
+
+.card-4{
+  background-color: #FFDAB9;
+}
+
+.card-5{
+  background-color: #E9967A;
+}
+
+.card-6{
+  background-color: #FFD700;
+}
+
+.card-7{
+  background-color: #87CEFA;
+}
+
+.card-8{
+  background-color: #E6E6FA;
+}
+
+.card-8 .container{
+  text-align: left;
+}
+
+.card-9{
+  background-color: #D8BFD8;
+}
+
+.card-10{
+  background-color: #FFE4E1;
+}
+
+.card-11{
+  background-color: #F0F8FF;
+}
+
+.card-12{
+  background-color: #E0FFFF;
+}
+
+.card-12 .container,
+.card-13 .container,
+.card-30 .container{
+  margin-top: 90px;
+}
+
+.card-13{
+  background-color: #FF7F50;
+}
+
+.card-14{
+  background-color: #C70039;
+}
+
+.card-14 .container,
+.card-15 .container,
+.card-17 .container,
+.card-18 .container,
+.card-28 .container{
+  color: #fff;
+}
+
+.card-15{
+  background-color: #581845;
+}
+
+.card-16{
+  background-color: #FFE4C4;
+}
+
+.card-17{
+  background-color: #A0522D;
+}
+
+.card-18{
+  background-color: #900C3F;
+}
+
+.card-19{
+  background-color: #FF8C00;
+}
+
+.card-20{
+  background-color: #FF6347;
+}
+
+.card-21{
+  background-color: #FFC300;
+}
+
+.card-22{
+  background-color: #BDB76B;
+}
+
+.card-23{
+  background-color: #F0E68C;
+}
+
+.card-24{
+  background-color: #EEE8AA;
+}
+
+.card-25{
+  background-color: #ADFF2F;
+}
+
+.card-26{
+  background-color: #32CD32;
+}
+
+.card-27{
+  background-color: #9ACD32;
+}
+
+.card-28{
+  background-color: #5F9EA0;
+}
+
+.card-29{
+  background-color: #48D1CC;
+}
+
+.card-30{
+  background-color: #B0E0E6;
+}
+
+.card-31{
+  background-color: #F0FFFF;
+}
+
+.card-32{
+  background-color: #FFF5EE;
+}
+
+.card-33{
+  background-color: #FAEBD7;
+}
+
+.card-34{
+  background-color: #BC8F8F;
+}
+
+.card-35{
+  background-color: #FFE4E1;
+}
