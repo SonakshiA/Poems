@@ -252,3 +252,10 @@ body{
 .card-35{
   background-color: #FFE4E1;
 }
+
+@media only screen (max-width:400px){
+  body{
+    display: flex;
+    flex-direction: column;
+  }
+}
